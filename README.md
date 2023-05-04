@@ -8,7 +8,7 @@ Price table page for `html/css` practicing.
 
 <p>
 
-<img width="1680" alt="page" src="https://user-images.githubusercontent.com/106340297/235371405-ca9adf7f-107a-4451-9eb1-ab91605ed562.png">
+<img width="1679" alt="landscape" src="https://user-images.githubusercontent.com/106340297/236239780-164b6dbb-0c0b-4e54-bbcd-6b618006e41e.png">
 
 </p>
 
@@ -16,7 +16,7 @@ Price table page for `html/css` practicing.
 
 <p>
 
-<img width="478" alt="pagem" src="https://user-images.githubusercontent.com/106340297/235371475-4b0e4f67-e4e1-4f18-b27f-02f9647dcd28.png">
+<img width="484" alt="portrait" src="https://user-images.githubusercontent.com/106340297/236239966-4fc3c3ff-ff9e-43bd-b21b-6d2e1dc342e7.png">
 
 </p>
 
@@ -25,5 +25,5 @@ Price table page for `html/css` practicing.
 **Reference**
 
 1. _The Web Developer Bootcamp 2023_ by Colt Steele (https://www.udemy.com/share/105vzw3@Kh4GMxDaMBSPu6-cHVp-P6QoX0TGwJk0ncMMYSGA45EQ18gOB81K85aSNk2BFu6gew==/)<br>
-<br>
-Original source by Travis Williams
+   <br>
+   Original source by Travis Williams
